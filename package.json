@@ -1,0 +1,10 @@
+{
+    "name": "stack-init",
+    "version": "1.0.0",
+    "description": "CLI tool to scaffold a full-stack React + Tailwind + Node project",
+    "type": "module",
+    "bin": {
+      "stack-init": "./index.js"
+    }
+  }
+  
